@@ -1,5 +1,10 @@
+### 
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=edcreativity)](https://solved.ac/edcreativity)
+
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
 
 <!--
 **edwardpys/edwardpys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
