@@ -7,8 +7,6 @@
 
 <br>
 
-# 박유상 Yousang Park (Edward*)
-
 ## Contact
 - Profile: [edward.moe](https://edward.moe/)
 - E-mail: eddylily00@gmail.com
