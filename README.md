@@ -11,6 +11,7 @@
 - Profile: [edward.moe](https://edward.moe/)
 - E-mail: eddylily00@gmail.com
 <br>
+
 - AI undergrad. GameMaker™ Programmer.
 - Learning C++, Python, Java, Web Programming, etc.
 <br>
