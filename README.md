@@ -5,7 +5,7 @@
 <br>
 
 ### `🍮 Edward*`
-- AI undergrad. GameMaker Programmer.
+- AI undergrad. Beginner at programming.
 - Learning C++, Python, Java, HTML & CSS, etc.
 - Lang: KR / JP / EN
 
@@ -26,11 +26,13 @@
 
 <br>
 
+<!--
 ### `🎈 Personal`
 - JLPT N1 (2023. 1. 12.)
 - Vice Manager of Community [초딩들의 컴퓨터 도전기(Kids' Computer Challenge)](https://cafe.naver.com/sangbinkids)<br>
   (2009. 7. 29. ~ in dormant state)
 <br>
+-->
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=edcreativity)](https://solved.ac/edcreativity)
