@@ -1,6 +1,4 @@
 # 🦋 Fly up. Just like a butterfly.
-> 나비처럼 날아올라 <br>
-> 飛び立つ。蝶々のように。
 
 <br>
 
